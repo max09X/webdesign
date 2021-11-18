@@ -1,0 +1,16 @@
+
+body {background-color: SeaShell
+}
+h1 {
+  background: LightSeaGreen;
+  border-radius: 10px;
+  color: Orange;
+  font-family: Cursive;
+  font-size: 64px;
+  text-align: center;
+}
+li {
+  color: #F64BE2;
+  font-family: Cursive;
+  font-size: 46px;
+}
